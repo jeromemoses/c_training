@@ -22,7 +22,7 @@ int main()
             printf("\n--->we are in the section 3 :) ");
         }
         else if(choice == 4)
-        { 
+        {  
             printf("\n--->we are in the section 4 :)");
         }
         else if(choice == 5)
